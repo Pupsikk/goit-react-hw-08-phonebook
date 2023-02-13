@@ -1,0 +1,19 @@
+.contactButton {
+  width: 60px;
+  height: 28px;
+  margin-left: 20px;
+  font-size: 16px;
+  padding: 3px;
+  border-radius: 6px;
+  color: azure;
+  background-color: rgba(0, 51, 128, 0.405);
+}
+
+.contactButton:hover {
+  color: #333333;
+  background-color: rgba(0, 51, 128, 0.405);
+}
+
+.item {
+  margin-top: 6px;
+}
